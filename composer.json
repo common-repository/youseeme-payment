@@ -1,0 +1,25 @@
+{
+    "name": "youseemepay/youseeme",
+    "description": "YouPay is a cryptocurrency payment plugin for e-commerce sites. Published by Youseeme, YouPay is registered as a digital asset service provider (PSAN) with the AMF under number E2022-50.",
+    "type": "project",
+    "license": "GPLv2 or later",
+    "autoload": {
+        "psr-4": {
+            "Youseemepay\\Youseeme\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arnaud PAUL"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    },
+    "require-dev": {
+        "wp-coding-standards/wpcs": "^3.1"
+    }
+}

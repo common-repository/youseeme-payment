@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YouSeeMe Payment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-04 17:08+0000\n"
+"PO-Revision-Date: 2023-09-14 14:47+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: youseeme"
+
+#: includes/class-wc-gateway-youseeme.php:139
+msgid "+ Add crypto"
+msgstr "+ Aggiungi crittografia"
+
+#: includes/class-wc-gateway-youseeme-iban.php:106
+msgid "+ Add iban"
+msgstr "+ Aggiungi iban"
+
+#: includes/class-wc-gateway-youseeme-iban.php:106
+msgid "+ Add Youseeme IBAN"
+msgstr "+ Aggiungi l'IBAN di Youseeme"
+
+#. Description of the plugin
+#: includes/class-wc-gateway-youseeme.php:18
+msgid "Accept cryptocurrencies as payment method."
+msgstr "Accettare le criptovalute come metodo di pagamento."
+
+#: includes/class-wc-gateway-youseeme-iban.php:14
+msgid ""
+"Accept IBAN as payment method.</br>Please subscribe to a youseeme IBAN "
+"account on <a href=\"https://www.youseeme.fr\">https://www.youseeme.fr</a> "
+"dedicated to your online sales, it contains a Mastercard, so you will "
+"receive an essential notification of payment for each sale before validating "
+"the order, because remember there are no payment intermediaries."
+msgstr ""
+"Accettare l'IBAN come metodo di pagamento.</br>Si prega di sottoscrivere un "
+"account IBAN youseeme su <a href=\"https://www.youseeme.fr\">https://www."
+"youseeme.fr</a> dedicato alle vostre vendite online, contiene una Mastercard,"
+" così riceverete una notifica essenziale di pagamento per ogni vendita prima "
+"di convalidare l'ordine, perché ricordate che non ci sono intermediari di "
+"pagamento."
+
+#: includes/class-wc-gateway-youseeme.php:68
+msgid "Activate payment by cryptocurrencies"
+msgstr "Attivare il pagamento con le criptovalute"
+
+#: includes/class-wc-gateway-youseeme-iban.php:48
+msgid "Activate payment by iban"
+msgstr "Attiva il pagamento tramite iban"
+
+#: includes/class-wc-gateway-youseeme-iban.php:46
+#: includes/class-wc-gateway-youseeme.php:66
+msgid "Activate/Désactivate"
+msgstr "Attivare/Disattivare"
+
+#: includes/class-wc-gateway-youseeme.php:117
+msgid "Address"
+msgstr "Indirizzo"
+
+#: includes/class-wc-gateway-youseeme.php:73
+msgid "API key <sup style=\"color:red;\">*</sup>"
+msgstr "Chiave API <sup style=\"color:red;\">*</sup>"
+
+#: youseeme.php:189 youseeme.php:199
+msgid "Awaiting Crypto Confirmation"
+msgstr "In attesa della conferma della criptovaluta"
+
+#: includes/class-wc-gateway-youseeme-iban.php:79
+msgid "Bank name"
+msgstr "Nome della banca"
+
+#: includes/class-wc-gateway-youseeme-iban.php:81
+msgid "BIC / SWIFT"
+msgstr "BIC / SWIFT"
+
+#: includes/class-wc-gateway-youseeme.php:81
+msgid "Commission (%) <sup style=\"color:red;\">*</sup>"
+msgstr "Commissione (%) <sup style=\"color:red;\">*</sup>"
+
+#: includes/class-wc-gateway-youseeme.php:116
+msgid "Crypto"
+msgstr "Crittografia"
+
+#: includes/class-wc-gateway-youseeme.php:109
+msgid "Cryptocurrencies"
+msgstr "Criptovalute"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/youseeme/"
+msgstr "https://wordpress.org/plugins/youseeme/"
+
+#. Author URI of the plugin
+msgid "https://youseeme.io/"
+msgstr "https://youseeme.io/"
+
+#: includes/class-wc-gateway-youseeme-iban.php:80
+msgid "IBAN"
+msgstr "IBAN"
+
+#: includes/class-wc-gateway-youseeme-iban.php:72
+msgid "Ibans"
+msgstr "IBANS"
+
+#: includes/class-wc-gateway-youseeme-iban.php:23
+msgid "Pay using bank transfer"
+msgstr "Paga tramite bonifico bancario"
+
+#: includes/class-wc-gateway-youseeme.php:17
+msgid "Pay using Crypto"
+msgstr "Paga utilizzando Crypto"
+
+#: includes/class-wc-gateway-youseeme-iban.php:13
+msgid "Pay using IBAN"
+msgstr "Paga utilizzando IBAN"
+
+#: includes/class-wc-gateway-youseeme.php:27
+msgid "Pay using your favorite Cryptocurrency"
+msgstr "Pagate con la vostra criptovaluta preferita"
+
+#: youseeme.php:173
+msgid ""
+"Please note that payment is made from your customer to your direct Wallet, "
+"wait for Youseeme to send you a confirmation notice for receipt of the "
+"amount before validating the order."
+msgstr ""
+"Si prega di notare che il pagamento viene effettuato dal cliente al vostro "
+"Portafoglio diretto, attendete che Youseeme vi invii una notifica di "
+"conferma per la ricezione dell'importo prima di convalidare l'ordine."
+
+#: includes/class-wc-gateway-youseeme.php:214
+msgid ""
+"Please SCAN THE QR CODE to make your payment or COPY THE ADDRESS BELOW and "
+"paste it into your wallet to complete the payment."
+msgstr ""
+"SCANSIONA IL CODICE QR per effettuare il pagamento o COPIA L'INDIRIZZO SOTTO "
+"e incollalo nel tuo portafoglio per completare il pagamento."
+
+#: includes/class-wc-gateway-youseeme-iban.php:184
+msgid "Please select an IBAN account"
+msgstr "Seleziona un conto IBAN"
+
+#: includes/class-wc-gateway-youseeme.php:207
+msgid "Please select your favorite Crypto"
+msgstr "Selezionare la criptovaluta preferita"
+
+#: includes/class-wc-gateway-youseeme.php:75
+msgid ""
+"Please sign up at <a href=\"https://user.youseeme.io\">https://user.youseeme."
+"io</a> for the opening of your free wallet for your cash in collection, and "
+"the API key for the rates. Or <a href=\"mailto:contact@youseeme.pro\">"
+"contact@youseeme.pro</a>"
+msgstr ""
+"Iscrivetevi all'indirizzo <a href=\"https://user.youseeme.io\">https://user."
+"youseeme.io</a> per l'apertura del vostro portafoglio gratuito per l'incasso "
+"e la chiave API per le tariffe. Oppure <a href=\"mailto:contact@youseeme."
+"pro\">contact@youseeme.pro</a>"
+
+#: includes/class-wc-gateway-youseeme.php:200
+msgid "Public address"
+msgstr "Indirizzo pubblico"
+
+#: includes/class-wc-gateway-youseeme-iban.php:82
+msgid "QR code"
+msgstr "QR code"
+
+#: includes/class-wc-gateway-youseeme.php:139
+msgid "Remove selected cryptos(s)"
+msgstr "Rimuovere le criptovalute selezionate"
+
+#: includes/class-wc-gateway-youseeme-iban.php:106
+msgid "Remove selected ibans(s)"
+msgstr "Rimuovi gli iban selezionati"
+
+#: includes/class-wc-gateway-youseeme-iban.php:177
+#: includes/class-wc-gateway-youseeme.php:199
+msgid "Total amount to pay:"
+msgstr "Importo totale da pagare:"
+
+#: includes/class-wc-gateway-youseeme-iban.php:191
+msgid ""
+"You will need to transfer the total amount of your purchase to our account. "
+"You will receive your order confirmation via email, which will include our "
+"bank details and the order number."
+msgstr ""
+"Dovrai trasferire l'importo totale del tuo acquisto sul nostro conto. "
+"Riceverai la conferma dell'ordine via e-mail, che includerà le nostre "
+"coordinate bancarie e il numero dell'ordine."
+
+#. Author of the plugin
+msgid "YouSeeMe"
+msgstr "YouSeeMe"
+
+#: includes/class-wc-gateway-youseeme.php:16
+msgid "Youseeme - Cryptocurrencies"
+msgstr "Youseeme - Criptovalute"
+
+#: includes/class-wc-gateway-youseeme-iban.php:12
+msgid "Youseeme - IBAN"
+msgstr "Youseeme - IBAN"
+
+#. Name of the plugin
+msgid "YouSeeMe Payment"
+msgstr "Pagamento YouSeeMe"

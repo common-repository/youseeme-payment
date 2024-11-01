@@ -1,0 +1,30 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-blocks {
+	background-color: #21759b;
+	color: #fff;
+	padding: 2px;
+}
+
+
+.ysm_row{
+	display:flex
+}
+
+.ysm_col{
+	width:50%;
+	padding:1em;
+	display: flex;
+	 flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+}
+@media(max-width: 767px){
+	.ysm_col{width:100%}
+}
+
